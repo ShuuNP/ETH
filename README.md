@@ -11,7 +11,7 @@ The program provides a simple implementation for minting and burning tokens on b
 
 
 ### Installing
- # use remix.ethereum.org and copy the solana project in the the workspace.
+ ## use remix.ethereum.org and copy the solana project in the the workspace.
 
 ### Executing program
 
