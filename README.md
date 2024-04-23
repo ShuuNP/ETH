@@ -1,4 +1,4 @@
-![image](https://github.com/ShuuNP/ETH/assets/91449806/367385d1-8dad-448b-8123-77a6152d20c5)# [METACRAFTERS PROJECT] Solana: Minting and Burning of tokens
+![image](https://github.com/ShuuNP/ETH/assets/91449806/4c7a09d1-a486-479a-b62d-138a4df95f51)![image](https://github.com/ShuuNP/ETH/assets/91449806/367385d1-8dad-448b-8123-77a6152d20c5)# [METACRAFTERS PROJECT] Solana: Minting and Burning of tokens
 
 Basic implementation of a cryptocurrency token on the Ethereum blockchain.
 
@@ -18,22 +18,19 @@ The program provides a simple implementation for minting and burning tokens on b
 
 * How to run the program
   - ![image](https://github.com/ShuuNP/ETH/assets/91449806/fcee9a9e-e81f-4f6f-ba01-afe9a4f9cb7f)
+    Deploy
+  - ![image](https://github.com/ShuuNP/ETH/assets/91449806/185ae0a4-98a5-4f79-95c1-730ab6cc48a6)
   - 
-## Help
+    ![image](https://github.com/ShuuNP/ETH/assets/91449806/0ead917a-cbeb-4a10-ad4e-fc8c8d361cd9)
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+
+
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Thomas Manuel
+tomgab21@gmail.com
 
 
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
