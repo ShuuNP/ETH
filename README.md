@@ -1,4 +1,4 @@
-![image](https://github.com/ShuuNP/ETH/assets/91449806/4c7a09d1-a486-479a-b62d-138a4df95f51)![image](https://github.com/ShuuNP/ETH/assets/91449806/367385d1-8dad-448b-8123-77a6152d20c5)# [METACRAFTERS PROJECT] Solana: Minting and Burning of tokens
+# [METACRAFTERS PROJECT] Solana: Minting and Burning of tokens
 
 Basic implementation of a cryptocurrency token on the Ethereum blockchain.
 
