@@ -11,17 +11,21 @@ The program provides a simple implementation for minting and burning tokens on b
 
 
 ### Installing
- ## use remix.ethereum.org and copy the solana project in the the workspace.
+ * go to [Remix ETH](https://remix.ethereum.org/) and copy the solana project in the the workspace.
 
 ### Executing program
 
-* How to run the program
--![image](https://github.com/ShuuNP/ETH/assets/91449806/fcee9a9e-e81f-4f6f-ba01-afe9a4f9cb7f)
--![image](https://github.com/ShuuNP/ETH/assets/91449806/185ae0a4-98a5-4f79-95c1-730ab6cc48a6)
--![image](https://github.com/ShuuNP/ETH/assets/91449806/0ead917a-cbeb-4a10-ad4e-fc8c8d361cd9)
+* Compile
+  
+![image](https://github.com/ShuuNP/ETH/assets/91449806/fcee9a9e-e81f-4f6f-ba01-afe9a4f9cb7f)
 
+* Deploy
+  
+![image](https://github.com/ShuuNP/ETH/assets/91449806/185ae0a4-98a5-4f79-95c1-730ab6cc48a6)
 
-
+* Use the text spaces and buttons
+  
+![image](https://github.com/ShuuNP/ETH/assets/91449806/0ead917a-cbeb-4a10-ad4e-fc8c8d361cd9)
 
 ## Authors
 
